@@ -5,13 +5,13 @@ int main () {
 	while (1) {
 		if (bit == true) {
 			bit = false;
-			cout << "False";
+			cout << "False\n";
 		}
 		else if (bit == false) {
 			bit = true;
-			cout << "True";
+			cout << "True\n";
 		} else {
-			cout << "ERROR";
+			cout << "ERROR\n";
 			return 0;
 		}
 	}
