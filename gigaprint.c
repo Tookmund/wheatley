@@ -1,10 +1,10 @@
-/* Warning! This program sucks 4GB of memory! */
+/* Warning! This program sucks lots of memory! */
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
-#define GIGA ((1024LL)*((1204LL)*(1024LL)))
+#define GIGA ((1024LL)*(1204LL))
 
 int main () {
 	srand(time(NULL));
