@@ -1,3 +1,5 @@
+Status: Complete
+
 This is a collection of Wheatley programs.
 
 A Wheatley program:
